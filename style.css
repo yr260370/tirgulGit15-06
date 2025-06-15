@@ -2,3 +2,9 @@ p{
     text-align: center;
     background-color: aqua;
 }
+
+button{
+    align-items: center;
+    background-color: crimson;
+    color: white;
+}
